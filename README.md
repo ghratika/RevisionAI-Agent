@@ -1,6 +1,5 @@
 ---
 title: RevisionAI Agent
-emoji: ??
 colorFrom: blue
 colorTo: purple
 sdk: gradio
